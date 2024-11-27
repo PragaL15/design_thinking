@@ -26,8 +26,6 @@
 - **Best Practice**:  
   - Ensure that the spacing between letters is consistent throughout the word.
   - Requires careful attention, especially for letters with distinctive shapes (e.g., "A" and "V," "T" and "o").
-  
----
 
 ### **3. Tracking**
 - **Definition**: Tracking involves adjusting the spacing between all the characters in a word, sentence, or block of text.
