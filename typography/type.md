@@ -1,6 +1,4 @@
-### **Classification of Types: Typefaces, Type Families, and Type Designers**  
 
----
 
 #### **Introduction to Typeface Classification**
 - Typography is essential for effective and aesthetic visual communication.
