@@ -1,7 +1,5 @@
 ### **Typographic Variables: Kerning, Tracking, Leading, Spacing**
 
----
-
 ### **1. Leading**
 - **Definition**: Leading refers to the vertical spacing between lines of text, which helps in determining the legibility of multiple lines of text.
 - **Measurement**:  
