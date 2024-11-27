@@ -15,6 +15,8 @@
   - Ensures clarity and legibility in blocks of text.
   - Helps in avoiding cramped or overly spaced lines that hinder readability.
 
+---
+
 ### **2. Kerning**
 - **Definition**: Kerning refers to the adjustment of space between individual letters in a word.
 - **Purpose**:  
@@ -26,6 +28,8 @@
 - **Best Practice**:  
   - Ensure that the spacing between letters is consistent throughout the word.
   - Requires careful attention, especially for letters with distinctive shapes (e.g., "A" and "V," "T" and "o").
+
+---
 
 ### **3. Tracking**
 - **Definition**: Tracking involves adjusting the spacing between all the characters in a word, sentence, or block of text.
