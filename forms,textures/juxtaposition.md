@@ -1,19 +1,24 @@
 ### What is Juxtaposition?
+
 - **Juxtaposition** refers to placing elements side by side to create contrast or highlight similarities, influencing how users perceive and interact with designs.
 - It plays a crucial role in visual hierarchy, guiding the user's focus and enhancing usability in digital spaces.
 
 ### Juxtaposition in UX Design
+
 - **Definition**: Juxtaposition in UX design is the intentional arrangement of elements to create contrast, grab attention, and guide user interaction.
 - **Psychology**: Juxtaposition taps into natural human tendencies to seek patterns and contrast, influencing how users interpret visual information.
 
 ### Role of Juxtaposition in Shaping User Behavior
+
 - It helps guide user actions, such as clicking important buttons or focusing on key content.
 - It enhances navigation, boosting user engagement and satisfaction.
 
 ### Juxtaposition in Visual Hierarchy
+
 - Different elements (size, color, shape) are arranged based on their importance, making key information stand out and guiding users through the content.
 
 ### How to Use Juxtaposition:
+
 1. **Identify Theme/Concept**: Choose a clear theme to guide element placement (e.g., old vs. new, light vs. dark).
 2. **Select Contrasting Elements**: Choose elements (color, shape, size) that contrast but complement the design.
 3. **Experiment with Placement**: Try different arrangements to create dynamic and impactful compositions.
@@ -24,6 +29,7 @@
 8. **Trust Instincts**: Be bold in experimenting with contrast and placement to create memorable designs.
 
 ### Principles of Juxtaposition:
+
 1. **Contrast**:  
    - Creates visual interest and hierarchy (e.g., large buttons, bright colors).
    - Uses color, size, and shape to emphasize key elements.
