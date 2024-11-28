@@ -1,5 +1,6 @@
 
 ### **1. Proximity**
+
 - **Definition**: Elements close to each other are perceived as related; those farther apart appear unrelated.
 - **Purpose**: Simplifies understanding and creates logical groupings to enhance clarity and structure.
 
@@ -21,6 +22,7 @@
 ---
 
 ### **2. Scale**
+
 - **Definition**: Refers to the relative size of an element in comparison to others.
 - **Purpose**: Helps achieve balance, functionality, and adaptability in design.
 
@@ -38,6 +40,7 @@
    - Establishes importance by structuring content for clear navigation.
 
 #### **Applications**
+
 - **Relativity**: Objects must align with their intended use (e.g., child-friendly designs like spoons).
 - **Functionality**: Designs must interact seamlessly (e.g., easy-to-open bottles for children).
 - **Adaptability**: Elements should maintain function across scales (e.g., responsive web design).
